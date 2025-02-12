@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-11T11:50:28Z" name="FREE PomArti Application Test Automation Test Suite" finished-at="2025-02-11T11:51:44Z" duration-ms="76498">
+    <groups>
+    </groups>
+    <test started-at="2025-02-11T11:50:28Z" name="Free pomArti App Test Cases" finished-at="2025-02-11T11:51:44Z" duration-ms="76498">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:20:38Z" name="setUp" finished-at="2025-02-11T17:20:52Z" duration-ms="14185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTitleTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:20:52Z" name="verifyHomePageTitleTest" finished-at="2025-02-11T17:20:53Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:20:53Z" name="tearDown" finished-at="2025-02-11T17:20:55Z" duration-ms="2572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:21:04Z" name="setUp" finished-at="2025-02-11T17:21:17Z" duration-ms="13197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyUserNameTest()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:21:17Z" name="verifyUserNameTest" finished-at="2025-02-11T17:21:17Z" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:21:17Z" name="tearDown" finished-at="2025-02-11T17:21:18Z" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:21:26Z" name="setUp" finished-at="2025-02-11T17:21:40Z" duration-ms="13277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyBank_and_Finance_page_link_test()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:21:40Z" name="verifyBank_and_Finance_page_link_test" finished-at="2025-02-11T17:21:44Z" duration-ms="3850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBank_and_Finance_page_link_test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7dc3712]" started-at="2025-02-11T17:21:44Z" name="tearDown" finished-at="2025-02-11T17:21:44Z" duration-ms="767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:20:28Z" name="setUp" finished-at="2025-02-11T17:20:38Z" duration-ms="10097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:20:38Z" name="loginPageTitleTest" finished-at="2025-02-11T17:20:38Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:20:38Z" name="tearDown" finished-at="2025-02-11T17:20:38Z" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:20:55Z" name="setUp" finished-at="2025-02-11T17:21:03Z" duration-ms="8047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="ImageTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:21:03Z" name="ImageTest" finished-at="2025-02-11T17:21:03Z" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:21:03Z" name="tearDown" finished-at="2025-02-11T17:21:04Z" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:21:18Z" name="setUp" finished-at="2025-02-11T17:21:25Z" duration-ms="7654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:21:25Z" name="loginTest" finished-at="2025-02-11T17:21:26Z" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@1df8da7a]" started-at="2025-02-11T17:21:26Z" name="tearDown" finished-at="2025-02-11T17:21:26Z" duration-ms="489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Free pomArti App Test Cases -->
+  </suite> <!-- FREE PomArti Application Test Automation Test Suite -->
+</testng-results>
